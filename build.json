@@ -1,1 +1,39 @@
+{
+    "game": {
+        "Workspace": {
+            "MapWorkspace": {}
 
+        },
+
+        "ReplicatedFirst": {
+            "Maps": {
+                "MapExample": {}
+            }
+
+        },
+
+        "ReplicatedStorage": {
+            "MapEvent": {
+                "MapRemoteEvent": {}
+            }
+        },
+
+        "ServerScriptService": {
+            "MapScript": {}
+        },
+
+        "ServerStorage": {
+
+        },
+
+        "StarterGui": {
+            "ScreenGui": {
+                "SpawnMapButton": {
+                    "LocalScript": {}
+                }
+            }
+        }
+
+    }
+
+}
